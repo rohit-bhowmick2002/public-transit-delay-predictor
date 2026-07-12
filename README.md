@@ -238,5 +238,44 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## 📬 Contact & Contributions
-Created by [Your Name] - feel free to reach out on [LinkedIn](https://linkedin.com/in/yourusername) or email at `your.email@example.com`!
+
+## 👤 Author
+
+<div align="center">
+
+### Rohit Bhowmick
+
+Data Scientist | ML Engineer
+
+<p>
+  <a href="mailto:rohitbhowmick817@gmail.com"><img src="https://img.shields.io/badge/Email-rohitbhowmick817%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rohit-bhowmick"><img src="https://img.shields.io/badge/LinkedIn-Rohit%20Bhowmick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rohit-bhowmick2002"><img src="https://img.shields.io/badge/GitHub-rohit--bhowmick2002-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- **[Kaggle](https://www.kaggle.com)** - For hosting the competition
+- **[KKBox](https://www.kkbox.com)** - For providing the dataset
+- **[WSDM](http://www.wsdm-conference.org/)** - For organizing WSDM Cup 2018
+- **All Kaggle competitors** - For inspiring discussions and solutions
+
+---
+
+<p align="center">
+  <strong>⭐ Star this repository if you found it helpful!</strong>
+</p>
+
+---
+
+**Built with ❤️ | Data Science Portfolio Project | 2026**
